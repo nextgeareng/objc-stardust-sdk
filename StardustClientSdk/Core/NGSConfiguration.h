@@ -15,7 +15,7 @@
 */
 
 
-static NSString * const kNGSAPIVersion = @"0.9.6.4";
+static NSString * const kNGSAPIVersion = @"0.9.6.5";
 
 @protocol NGSConfiguration <NSObject>
 
