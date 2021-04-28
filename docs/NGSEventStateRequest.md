@@ -4,11 +4,11 @@
 Name | Type | Description | Notes
 ------------ | ------------- | ------------- | -------------
 **varNewState** | **NSString*** |  | 
-**initiator** | [**NGSParticipantRequest***](NGSParticipantRequest.md) |  | 
+**initiator** | [**NGSParticipantRequest***](NGSParticipantRequest.md) |  | [optional] 
 **owner** | [**NGSParticipantRequest***](NGSParticipantRequest.md) |  | [optional] 
-**recipient** | [**NGSParticipantRequest***](NGSParticipantRequest.md) |  | 
+**recipient** | [**NGSParticipantRequest***](NGSParticipantRequest.md) |  | [optional] 
 **notes** | **NSString*** |  | [optional] 
-**lossAddress** | [**NGSAddressRequest***](NGSAddressRequest.md) |  | 
+**lossAddress** | [**NGSAddressRequest***](NGSAddressRequest.md) |  | [optional] 
 **officeAddress** | [**NGSAddressRequest***](NGSAddressRequest.md) |  | [optional] 
 **estimatedCompletionDateUtc** | **NSDate*** |  | [optional] 
 **startDateUtc** | **NSDate*** |  | [optional] 

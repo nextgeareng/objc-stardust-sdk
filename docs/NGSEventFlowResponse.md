@@ -13,7 +13,7 @@ Name | Type | Description | Notes
 **dateCompletedUtc** | **NSDate*** |  | [optional] 
 **states** | [**NSArray&lt;NGSEventFlowStateResponse&gt;***](NGSEventFlowStateResponse.md) |  | [optional] 
 **status** | **NSString*** |  | [optional] 
-**portalIdentifier** | **NSString*** |  | 
+**portalIdentifier** | **NSString*** |  | [optional] 
 
 [[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
 

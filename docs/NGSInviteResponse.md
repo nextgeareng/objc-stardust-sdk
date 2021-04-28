@@ -6,7 +6,7 @@ Name | Type | Description | Notes
 **inviteIdentifier** | **NSString*** |  | 
 **resourcePaths** | **NSArray&lt;NSString*&gt;*** |  | [optional] 
 **portalIdentifier** | **NSString*** |  | 
-**projectIdentifier** | **NSString*** |  | 
+**projectIdentifier** | **NSString*** |  | [optional] 
 **recipients** | [**NSArray&lt;NGSInviteParticipantResponse&gt;***](NGSInviteParticipantResponse.md) |  | [optional] 
 **dateCreatedUtc** | **NSDate*** |  | 
 **dateUpdatedUtc** | **NSDate*** |  | 

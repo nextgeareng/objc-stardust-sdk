@@ -27,7 +27,7 @@
  */
 + (BOOL)propertyIsOptional:(NSString *)propertyName {
 
-  NSArray *optionalProperties = @[@"currentState", @"owner", @"initiator", @"recipient", @"dateCompletedUtc", @"states", @"status", ];
+  NSArray *optionalProperties = @[@"currentState", @"owner", @"initiator", @"recipient", @"dateCompletedUtc", @"states", @"status", @"portalIdentifier"];
   return [optionalProperties containsObject:propertyName];
 }
 

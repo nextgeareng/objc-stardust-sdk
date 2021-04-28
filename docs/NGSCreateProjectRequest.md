@@ -14,8 +14,8 @@ Name | Type | Description | Notes
 **emailAddress** | **NSString*** |  | [optional] 
 **webReviewUri** | **NSString*** |  | [optional] 
 **websiteUri** | **NSString*** |  | [optional] 
-**lossAddressContact** | [**NGSParticipantRequest***](NGSParticipantRequest.md) |  | 
-**initiator** | [**NGSParticipantRequest***](NGSParticipantRequest.md) |  | 
+**lossAddressContact** | [**NGSParticipantRequest***](NGSParticipantRequest.md) |  | [optional] 
+**initiator** | [**NGSParticipantRequest***](NGSParticipantRequest.md) |  | [optional] 
 **technician** | [**NGSParticipantRequest***](NGSParticipantRequest.md) |  | [optional] 
 **externalParticipants** | [**NSArray&lt;NGSParticipantRequest&gt;***](NGSParticipantRequest.md) |  | [optional] 
 

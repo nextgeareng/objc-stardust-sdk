@@ -8,8 +8,8 @@ Name | Type | Description | Notes
 **resourcePaths** | **NSArray&lt;NSString*&gt;*** |  | [optional] 
 **lossAddress** | [**NGSAddress***](NGSAddress.md) |  | [optional] 
 **officeAddress** | [**NGSAddress***](NGSAddress.md) |  | [optional] 
-**lossAddressContact** | [**NGSEditParticipantRequest***](NGSEditParticipantRequest.md) |  | 
-**initiator** | [**NGSEditParticipantRequest***](NGSEditParticipantRequest.md) |  | 
+**lossAddressContact** | [**NGSEditParticipantRequest***](NGSEditParticipantRequest.md) |  | [optional] 
+**initiator** | [**NGSEditParticipantRequest***](NGSEditParticipantRequest.md) |  | [optional] 
 **technician** | [**NGSEditParticipantRequest***](NGSEditParticipantRequest.md) |  | [optional] 
 **externalParticipants** | [**NSArray&lt;NGSEditParticipantRequest&gt;***](NGSEditParticipantRequest.md) |  | [optional] 
 

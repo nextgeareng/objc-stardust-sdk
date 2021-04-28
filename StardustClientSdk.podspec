@@ -9,7 +9,7 @@
 
 Pod::Spec.new do |s|
     s.name             = "StardustClientSdk"
-    s.version          = "0.9.6.9"
+    s.version          = "0.9.6.10"
 
     s.summary          = "Stardust API"
     s.description      = <<-DESC
